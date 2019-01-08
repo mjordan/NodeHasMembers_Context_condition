@@ -2,7 +2,7 @@
 
 Drupal 8 Context condition plugin that determines if a node has any members. Specifically, it executes the "Manage Members" View provided by the Islandora module and counts the results.
 
-Note that this repo is a temporary home until this plugin is included in the base Islandora module, is packaged in its own module, etc. See the discussion at https://github.com/Islandora-CLAW/CLAW/issues/396 for more detail.
+Note that this repo is a temporary home until this plugin is included in the base Islandora module, is packaged in its own module, etc. 
 
 Also note that Context Conditions now show up in all block visibility settings. This is [standard](https://www.drupal.org/node/2287827) Drupal 8 behavior.
 
